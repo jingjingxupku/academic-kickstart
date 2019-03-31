@@ -3,7 +3,7 @@ title = "Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese So
 date = 2018-06-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Jingjing Xu***", "Hangfeng He", "Xu Sun", "Xuancheng Ren", "Sujian Li"]
+authors = ["**Jingjing Xu**", "Hangfeng He", "Xu Sun", "Xuancheng Ren", "Sujian Li"]
 
 # Publication type.
 # Legend:
