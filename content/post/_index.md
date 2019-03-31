@@ -8,7 +8,7 @@ title = "Posts"
 view = 2
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
+[post]
+image = "files/cv.pdf"
 caption = ""
 +++
