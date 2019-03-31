@@ -16,7 +16,7 @@ role = "NLP Ph.D. (fourth-year)"
 organizations = [ { name = "Peking University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a PhD candidate, supervised by Prof. Xu Sun, at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. I received the degree of Bachelor of College of Information Engineering from Northwest A&F University in 2015. I have great interests in Natural Language Processing and Deep Learning. Currently, my research areas include knowledge-aware language understanding and generation, adversarial attack for robust machine learning."
+bio = "I am a PhD candidate, supervised by Prof. [Xu Sun](https://xusun.org/), at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. I received the degree of Bachelor of College of Information Engineering from Northwest A&F University in 2015. I have great interests in Natural Language Processing and Deep Learning. Currently, my research areas include knowledge-aware language understanding and generation, adversarial attack for robust machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jingjingxu@pku.edu.cn"
@@ -72,6 +72,6 @@ I am a PhD candidate, supervised by Prof. Xu Sun, at MOE Key Laboratory of Compu
 
 I have great interests in Natural Language Processing and Deep Learning. Currently, my research areas include **knowledge-aware language understanding and generation, adversarial attack for robust machine learning**.
 
-**Email**: jingjing@pku.edu.cn
+**Email**: jingjingxu@pku.edu.cn
 
 
