@@ -3,7 +3,7 @@ title = "Review-Driven Multi-Label Music Style Classification by Exploiting Styl
 date = 2019-03-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Guangxiang Zhao*", "**JingjingXu***", "Xuancheng Ren", "Xu Sun"]
+authors = ["Guangxiang Zhao*", "**JingjingXu***", "Qi Zeng", "Xuancheng Ren", "Xu Sun"]
 
 # Publication type.
 # Legend:
@@ -77,5 +77,4 @@ url_source = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-This paper explores a new natural language processing task, review-driven multi-label music style classification. This task requires systems to identify multiple styles of music based on its reviews on websites. The biggest challenge lies in the complicated relations of music styles.  To tackle this problem, we propose a novel deep learning approach to automatically learn and exploit style correlations. Experiment results show that our approach achieves large improvements over baselines on the proposed dataset. Furthermore, the visualized analysis shows that our approach performs well in capturing style correlations.ten be reduced by around 9x, without any loss on accuracy or even with improved accuracy.
-
+This paper explores a new natural language processing task, review-driven multi-label music style classification. This task requires systems to identify multiple styles of music based on its reviews on websites. The biggest challenge lies in the complicated relations of music styles.  To tackle this problem, we propose a novel deep learning approach to automatically learn and exploit style correlations. Experiment results show that our approach achieves large improvements over baselines on the proposed dataset. Furthermore, the visualized analysis shows that our approach performs well in capturing style correlations.

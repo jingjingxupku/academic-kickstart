@@ -34,7 +34,7 @@ Responsibilities include:
   """
 
 [[experience]]
-  title = "Ph.D. Student"
+  title = "Ph.D. Candidate"
   company = "Peking University"
   company_url = ""
   location = "Beijing"

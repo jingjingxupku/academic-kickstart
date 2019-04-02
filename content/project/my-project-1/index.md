@@ -44,4 +44,4 @@ url_poster = ""
   focal_point = ""
 +++
 
-In October 2018, we participated in JD Dialogue Challenge (JDDC), which is a task-oriented multi-turn dialogue challenge, and won the **championship in the automatic evaluation and the second place in the manual evaluation**. We also won the "Excellent Tutor Award" and the "Architecture Innovation Award". Participants include Ruixuan Luo, Xuancheng Ren, Junyang Lin, Jingjing Xu, Shu Liu and so on. The instructor was Sun Xun.
+In October 2018, we participated in JD Dialogue Challenge (JDDC), which is a task-oriented multi-turn dialogue challenge, and won the **championship in the automatic evaluation and the second place in the manual evaluation**. We also won the "Excellent Tutor Award" and the "Architecture Innovation Award". Participants include Ruixuan Luo, Xuancheng Ren, Junyang Lin, Jingjing Xu, Shu Liu and so on. The instructor was Xu Sun.
