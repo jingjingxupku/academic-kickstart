@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   description = """
 Responsibilities include:
 
-  * Focused on knowledge-based question answering.
-  * Participated in data annotation.
+  * Explored challenges in knowledge-based question answering.
   * Developed task-driven models.
 
   """
