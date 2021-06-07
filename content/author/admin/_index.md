@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "NLP Ph.D. (fourth-year)"
+role = "Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Peking University", url = "" } ]
+organizations = [ { name = "ByteDance AI Lab", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a PhD candidate, supervised by Prof. [Xu Sun](https://xusun.org/), at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. I received the degree of Bachelor of College of Information Engineering from Northwest A&F University in 2015. I have great interests in Natural Language Processing and Deep Learning. Currently, my research areas include knowledge-aware language understanding and generation, adversarial attack for robust machine learning."
+bio = "Jingjing Xu (Xu pronounced similar to shu) is a research scientist at ByteDance AI Lab, collaborated with [Hao Zhou](https://zhouh.github.io/) and [Lei Li](https://lileicc.github.io/). Before joining Bytedance, she got her Ph.D. degree from Peking University, adviced by Prof. [Xu Sun](https://xusun.org/).  Her research focuses on green machine learning (namely efficient). She has published over ten  papers on top-tier conferences, including NeurIPS, ICML, ACL, and EMNLP, with cumulative 700 citations. Her work on green deep learning has been selected on AAAI-2020 New Faculty Highlights. She has served as ACL 2021 Area Chair. She has great interests on IoT applicatinos. Currently, she works on tiny models for NLP applications."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jingjingxu@pku.edu.cn"
@@ -24,7 +24,7 @@ email = "jingjingxu@pku.edu.cn"
 # List (academic) interests or hobbies
 interests = [
   "Natural Language processing",
-  "Deep Learning",
+  "Green Deep Learning",
   "Machine Learning"
 ]
 
